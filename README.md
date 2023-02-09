@@ -1,4 +1,4 @@
-# I Am Poor Sample App in Flutter from Udemy Complete Flutter Development Bootcamp Course
+# Udemy Complete Flutter Development I Am Poor App
 
 A new Flutter project.
 
